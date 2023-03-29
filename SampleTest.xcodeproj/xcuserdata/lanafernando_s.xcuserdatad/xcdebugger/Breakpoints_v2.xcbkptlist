@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BB72C6BC-76BE-4A6E-9078-B92324621571"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E29955BA-D545-474C-B730-2F487525CC47"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleTest/ViewModel/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "fetchHomeLayout()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E29955BA-D545-474C-B730-2F487525CC47 - fea2145e01613bc9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;SampleTest.HomeLayoutModel&gt;) -&gt; () in SampleTest.HomeViewModel.fetchHomeLayout() -&gt; ()"
+                  moduleName = "SampleTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lanafernando_s/Desktop/SampleTest/SampleTest/ViewModel/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "E29955BA-D545-474C-B730-2F487525CC47 - fea2145e01613bc9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;SampleTest.HomeLayoutModel&gt;) -&gt; () in SampleTest.HomeViewModel.fetchHomeLayout() -&gt; ()"
+                  moduleName = "SampleTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lanafernando_s/Desktop/SampleTest/SampleTest/ViewModel/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "367B2647-9F8A-42E0-85C7-E2B7DF458B15"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleTest/Helper/APIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "getService(urlString:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
