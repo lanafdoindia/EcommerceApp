@@ -22,7 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3413A75E29D2A26000A5D27D /* SampleTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SampleTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3413A75E29D2A26000A5D27D /* EcommerceApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EcommerceApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3413A76129D2A26000A5D27D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3413A76329D2A26000A5D27D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		3413A76A29D2A26200A5D27D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -52,7 +52,7 @@
 		3413A75529D2A26000A5D27D = {
 			isa = PBXGroup;
 			children = (
-				3413A76029D2A26000A5D27D /* SampleTest */,
+				3413A76029D2A26000A5D27D /* EcommerceApp */,
 				3413A75F29D2A26000A5D27D /* Products */,
 			);
 			sourceTree = "<group>";
@@ -60,12 +60,12 @@
 		3413A75F29D2A26000A5D27D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3413A75E29D2A26000A5D27D /* SampleTest.app */,
+				3413A75E29D2A26000A5D27D /* EcommerceApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		3413A76029D2A26000A5D27D /* SampleTest */ = {
+		3413A76029D2A26000A5D27D /* EcommerceApp */ = {
 			isa = PBXGroup;
 			children = (
 				3413A77929D2A3F500A5D27D /* Helper */,
@@ -78,7 +78,7 @@
 				3413A76C29D2A26200A5D27D /* LaunchScreen.storyboard */,
 				3413A76F29D2A26200A5D27D /* Info.plist */,
 			);
-			path = SampleTest;
+			path = EcommerceApp;
 			sourceTree = "<group>";
 		};
 		3413A77529D2A3C800A5D27D /* Model */ = {
@@ -120,9 +120,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3413A75D29D2A26000A5D27D /* SampleTest */ = {
+		3413A75D29D2A26000A5D27D /* EcommerceApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3413A77229D2A26200A5D27D /* Build configuration list for PBXNativeTarget "SampleTest" */;
+			buildConfigurationList = 3413A77229D2A26200A5D27D /* Build configuration list for PBXNativeTarget "EcommerceApp" */;
 			buildPhases = (
 				3413A75A29D2A26000A5D27D /* Sources */,
 				3413A75B29D2A26000A5D27D /* Frameworks */,
@@ -132,9 +132,9 @@
 			);
 			dependencies = (
 			);
-			name = SampleTest;
+			name = EcommerceApp;
 			productName = SampleTest;
-			productReference = 3413A75E29D2A26000A5D27D /* SampleTest.app */;
+			productReference = 3413A75E29D2A26000A5D27D /* EcommerceApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -152,7 +152,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 3413A75929D2A26000A5D27D /* Build configuration list for PBXProject "SampleTest" */;
+			buildConfigurationList = 3413A75929D2A26000A5D27D /* Build configuration list for PBXProject "EcommerceApp" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -165,7 +165,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3413A75D29D2A26000A5D27D /* SampleTest */,
+				3413A75D29D2A26000A5D27D /* EcommerceApp */,
 			);
 		};
 /* End PBXProject section */
@@ -383,7 +383,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3413A75929D2A26000A5D27D /* Build configuration list for PBXProject "SampleTest" */ = {
+		3413A75929D2A26000A5D27D /* Build configuration list for PBXProject "EcommerceApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3413A77029D2A26200A5D27D /* Debug */,
@@ -392,7 +392,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3413A77229D2A26200A5D27D /* Build configuration list for PBXNativeTarget "SampleTest" */ = {
+		3413A77229D2A26200A5D27D /* Build configuration list for PBXNativeTarget "EcommerceApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3413A77329D2A26200A5D27D /* Debug */,
